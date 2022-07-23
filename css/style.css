@@ -691,12 +691,12 @@ text-align: center;
 
 @media only screen and (max-width: 320px) {
   body {
-    background-color: lightblue;
+    background-color: bisque;
   }
 }
 
 @media only screen and (max-width: 900px) {
   body {
-    background-color: lightblue;
+    background-color: bisque;
   }
 }
